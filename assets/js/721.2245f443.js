@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[721],{721:function(e,t,n){n.r(t);var l=n(294),i=n(78);t.default=function(){return l.createElement(i.Z,{title:"Page Not Found"},l.createElement("div",{style:{display:"flex",justifyContent:"center",alignItems:"center",height:"50vh",fontSize:"20px"}},l.createElement("h1",null,"Oops, page not found ")))}}}]);
